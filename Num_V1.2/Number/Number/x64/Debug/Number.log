@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/8/30 18:42:17。
+     1>项目“C:\Users\QIAO\Documents\Visual Studio 2015\Projects\Binaryzation\Num_V1.2\Number\Number\Number.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\program files\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\program files\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\program files\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\program files\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(121): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(200): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(242): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(300): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(301): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(302): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(359): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(361): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(362): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(379): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\qiao\documents\visual studio 2015\projects\binaryzation\num_v1.2\number\number\main.cpp(380): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\QIAO\Documents\Visual Studio 2015\Projects\Binaryzation\Num_V1.2\Number\x64\Debug\Number.exe" /INCREMENTAL /NOLOGO opencv_world320d.lib opencv_world320.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\QIAO\Documents\Visual Studio 2015\Projects\Binaryzation\Num_V1.2\Number\x64\Debug\Number.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\QIAO\Documents\Visual Studio 2015\Projects\Binaryzation\Num_V1.2\Number\x64\Debug\Number.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\OCR.obj
+         Number.vcxproj -> C:\Users\QIAO\Documents\Visual Studio 2015\Projects\Binaryzation\Num_V1.2\Number\x64\Debug\Number.exe
+     1>已完成生成项目“C:\Users\QIAO\Documents\Visual Studio 2015\Projects\Binaryzation\Num_V1.2\Number\Number\Number.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.60
